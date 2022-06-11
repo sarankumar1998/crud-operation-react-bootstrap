@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "company": "Leanne Graham",
+            "vendorId": "1234",
+            "username": "june mao",
+            "contact": 765456787
+        },
+        {
+            "id": 2,
+            "company": "Leanne Graham",
+            "vendorId": "1234",
+            "username": "june mao",
+            "contact": 765456787
+        },
+        {
+            "id": 3,
+            "company": "Leanne Graham",
+            "vendorId": "1234",
+            "username": "june mao",
+            "contact": 765456787
+        },
+        {
+            "id": 4,
+            "company": "Leanne Graham",
+            "vendorId": "1234",
+            "username": "june mao",
+            "contact": 765456787
+        }
+    ]
+}

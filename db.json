@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "company": "BEACON",
+      "vendorId": "345678",
+      "username": "pinkmann",
+      "contact": "+1 987654567",
+      "website": "https://www.beaconshipping.com/",
+      "id": 7
+    },
+    {
+      "company": "safmarine",
+      "vendorId": "345645",
+      "username": "ching bing",
+      "contact": "sdfghm",
+      "website": "dfghnnn",
+      "id": 15
+    },
+    {
+      "company": "",
+      "vendorId": "",
+      "username": "",
+      "id": 16
+    },
+    {
+      "company": "",
+      "vendorId": "",
+      "username": "",
+      "id": 17
+    }
+  ]
+}
